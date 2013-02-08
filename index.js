@@ -1,1 +1,1 @@
-module.exports.favicons = require('./lib/favicons.js');
+module.exports = require('./lib/favicons.js');
