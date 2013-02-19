@@ -1,6 +1,6 @@
 {
   "name": "connect-favicons",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Serve site icons (favicon and apple-touch-icon(s)) quickly from any directory.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/theworkers/connect-favicons.git"
+    "url": "http://github.com/theworkers/connect-favicons"
   },
   "keywords": [
     "favicon",
