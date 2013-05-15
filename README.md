@@ -41,3 +41,18 @@ http.createServer(app).listen(3000, function(){
     console.log("Express server listening on port " + 3000);
 });
 ```
+
+List of Icons
+=============
+
+* favicon.ico
+* apple-touch-icon.png
+* apple-touch-icon-precomposed.png
+* apple-touch-icon-57x57.png
+* apple-touch-icon-57x57-precomposed.png
+* apple-touch-icon-72x72.png
+* apple-touch-icon-72x72-precomposed.png
+* apple-touch-icon-114x114.png
+* apple-touch-icon-114x114-precomposed.png
+* apple-touch-icon-144x144.png
+* apple-touch-icon-144x144-precomposed.png
