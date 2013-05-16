@@ -42,8 +42,8 @@ http.createServer(app).listen(3000, function(){
 });
 ```
 
-List of Icons
-=============
+Valid icon filenames
+====================
 
 * `favicon.ico`
 * `apple-touch-icon.png`
@@ -56,3 +56,4 @@ List of Icons
 * `apple-touch-icon-114x114-precomposed.png`
 * `apple-touch-icon-144x144.png`
 * `apple-touch-icon-144x144-precomposed.png`
+
