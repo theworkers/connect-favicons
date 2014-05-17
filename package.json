@@ -1,14 +1,14 @@
 {
   "name": "connect-favicons",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Serve site icons (favicon and apple-touch-icon(s)) quickly from any directory.",
-  "main": "index.js",
+  "main": "lib/favicons-middleware.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/theworkers/connect-favicons"
+    "url": "git://github.com/theworkers/connect-favicons.git"
   },
   "keywords": [
     "favicon",
@@ -16,6 +16,10 @@
     "icon",
     "icons"
   ],
-  "author": "tmslnz",
-  "license": "MIT"
+  "author": "tmslnz <t@theworkers.net> (http://theworkers.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theworkers/connect-favicons/issues"
+  },
+  "homepage": "https://github.com/theworkers/connect-favicons"
 }
