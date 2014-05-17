@@ -1,6 +1,6 @@
 {
   "name": "connect-favicons",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Serve site icons (favicon and apple-touch-icon(s)) quickly from any directory.",
   "main": "index.js",
   "scripts": {
