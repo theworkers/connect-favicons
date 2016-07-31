@@ -14,16 +14,30 @@ Recognised icon filenames
 --------------------
 
 * `favicon.ico`
+* `favicon.png`
 * `apple-touch-icon.png`
 * `apple-touch-icon-precomposed.png`
 * `apple-touch-icon-57x57.png`
 * `apple-touch-icon-57x57-precomposed.png`
 * `apple-touch-icon-72x72.png`
 * `apple-touch-icon-72x72-precomposed.png`
+* `apple-touch-icon-76x76.png`
+* `apple-touch-icon-76x76-precomposed.png`
 * `apple-touch-icon-114x114.png`
 * `apple-touch-icon-114x114-precomposed.png`
+* `apple-touch-icon-120x120.png`
+* `apple-touch-icon-120x120-precomposed.png`
 * `apple-touch-icon-144x144.png`
 * `apple-touch-icon-144x144-precomposed.png`
+* `apple-touch-icon-152x152.png`
+* `apple-touch-icon-152x152-precomposed.png`
+* `apple-touch-icon-180x180.png`
+* `apple-touch-icon-180x180-precomposed.png`
+* `favicon-16x16.png`
+* `favicon-32x32.png`
+* `favicon-128x128.png`
+* `mstile-150x150.png`
+* `safari-pinned-tab.svg`
 
 
 Usage
@@ -58,5 +72,3 @@ http.createServer(app).listen(3000, function(){
     console.log("Express server listening on port " + 3000);
 });
 ```
-
-
