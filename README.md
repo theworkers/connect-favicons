@@ -36,6 +36,7 @@ Recognised icon filenames
 * `favicon-16x16.png`
 * `favicon-32x32.png`
 * `favicon-128x128.png`
+* `favicon-256x256.png`
 * `mstile-150x150.png`
 * `safari-pinned-tab.svg`
 
